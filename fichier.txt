@@ -1,2 +1,3 @@
 Ceci est le contenu initial du fichier.
 Ceci est une modification ajoutée au fichier.
+Ceci est une ligne ajoutée dans la nouvelle branche.
